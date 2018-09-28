@@ -1,12 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
-    description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    title: 'RAYs{FRONTEND}BYTES',
+    author: 'Raymon Schouwenaar',
+    description: "I'm Ray a Dutch Front-end Developer. I share my passion about HTML, CSS, JavaScript and Tooling!",
+    siteUrl: 'http://raymonschouwenaar.netlify.com',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
