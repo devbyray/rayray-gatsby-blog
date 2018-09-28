@@ -1,11 +1,11 @@
-import React from 'react'
-
+import React from 'react';
+import 'typeface-merriweather';
 // Import typefaces
-import 'typeface-montserrat'
-import 'typeface-merriweather'
+import 'typeface-montserrat';
+import { rhythm } from '../utils/typography';
+import profilePic from './profile-pic.jpg';
 
-import profilePic from './profile-pic.jpg'
-import { rhythm } from '../utils/typography'
+
 
 class Bio extends React.Component {
   render() {
@@ -24,12 +24,12 @@ class Bio extends React.Component {
             marginBottom: 0,
             width: rhythm(2),
             height: rhythm(2),
+            borderRadius: '100%'
           }}
         />
         <p>
-          Written by <strong>Kyle Mathews</strong> who lives and works in San
-          Francisco building useful things.{' '}
-          <a href="https://twitter.com/kylemathews">
+          Written by <strong>Raymon Schouwenaar</strong> who lives and works in the Netherlands building useful things and helping others grow their development skills.{' '}
+          <a href="https://twitter.com/rsschouwenaar">
             You should follow him on Twitter
           </a>
         </p>
