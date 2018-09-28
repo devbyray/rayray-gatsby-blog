@@ -1,11 +1,11 @@
-import React from 'react'
-import { Link, graphql } from 'gatsby'
-import get from 'lodash/get'
-import Helmet from 'react-helmet'
+import { graphql, Link } from 'gatsby';
+import get from 'lodash/get';
+import React from 'react';
+import Helmet from 'react-helmet';
+import Bio from '../components/Bio';
+import Layout from '../components/layout';
+import { rhythm } from '../utils/typography';
 
-import Bio from '../components/Bio'
-import Layout from '../components/layout'
-import { rhythm } from '../utils/typography'
 
 class BlogIndex extends React.Component {
   render() {
@@ -15,6 +15,14 @@ class BlogIndex extends React.Component {
       'props.data.site.siteMetadata.description'
     )
     const posts = get(this, 'props.data.allMarkdownRemark.edges')
+
+    console.log('posts: ', posts.length)
+
+    const filteredPosts = posts.filter(postItem => {
+      return postItem.node.frontmatter.type === 'post'
+    })
+
+    console.log('filteredPosts: ', filteredPosts.length)
 
     return (
       <Layout location={this.props.location}>
@@ -57,7 +65,10 @@ export const pageQuery = graphql`
         description
       }
     }
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
+      totalCount
       edges {
         node {
           excerpt
@@ -65,8 +76,9 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "DD MMMM, YYYY")
+            date(formatString: "YYYY-MM-DD")
             title
+            type
           }
         }
       }
