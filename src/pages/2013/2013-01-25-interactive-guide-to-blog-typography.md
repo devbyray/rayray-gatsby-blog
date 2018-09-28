@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-25T22:59:00+00:00
 url: /interactive-guide-to-blog-typography/
-featured_image: /wp-content/uploads/2013/01/cvn_04_large.jpg
+featured_image: /cvn_04_large.jpg
 categories:
   - News of the Web
 

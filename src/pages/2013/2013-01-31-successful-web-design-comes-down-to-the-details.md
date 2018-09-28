@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-31T22:30:00+00:00
 url: /successful-web-design-comes-down-to-the-details/
-featured_image: /wp-content/uploads/2013/01/yeti.jpg
+featured_image: /yeti.jpg
 categories:
   - News of the Web
 

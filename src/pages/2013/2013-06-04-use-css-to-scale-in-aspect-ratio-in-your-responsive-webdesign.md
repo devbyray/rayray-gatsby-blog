@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2013-06-04T15:00:40+00:00
 url: /use-css-to-scale-in-aspect-ratio-in-your-responsive-webdesign/
-featured_image: /wp-content/uploads/2013/06/scale-ratio-css.jpg
+featured_image:  /wp-content/uploads/2013/06/scale-ratio-css.jpg
 dsq_thread_id:
   - 1388328339
 categories:

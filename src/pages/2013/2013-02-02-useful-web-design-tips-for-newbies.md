@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-02T07:00:00+00:00
 url: /useful-web-design-tips-for-newbies/
-featured_image: /wp-content/uploads/2013/02/web-design-tips-619x346.jpg
+featured_image:  /wp-content/uploads/2013/02/web-design-tips-619x346.jpg
 categories:
   - News of the Web
 

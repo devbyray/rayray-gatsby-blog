@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2018-03-28T21:15:08+00:00
 url: /5-ways-loop-over-DOM-elements-queryselectorall-javascript/
-featured_image: loop-over-nodelist-queryselectorall-javascript.png
+featured_image:  loop-over-nodelist-queryselectorall-javascript.png
 draft: false
 categories:
   - Javascript
@@ -79,9 +79,9 @@ If you need to support old browsers then you definitely need a compiler like Bab
 
 In the previous way we just used the NodeList to loop over in the For..of loop. But the NodeList has also a few more methods to use in this loop.
 
-The [entries()](https://developer.mozilla.org/en-US/docs/Web/API/NodeList/entries), [keys()](https://developer.mozilla.org/en-US/docs/Web/API/NodeList/keys) and [values()](https://developer.mozilla.org/en-US/docs/Web/API/NodeList/values) methods return a [iterator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols). A iterator is a new iterable protocol in the ES2015 specification. 
+The [entries()](https://developer.mozilla.org/en-US/docs/Web/API/NodeList/entries), [keys()](https://developer.mozilla.org/en-US/docs/Web/API/NodeList/keys) and [values()](https://developer.mozilla.org/en-US/docs/Web/API/NodeList/values) methods return a [iterator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols). A iterator is a new iterable protocol in the ES2015 specification.
 
-In JavaScript some types of data (Array or Map) have built in functionality to loop over. 
+In JavaScript some types of data (Array or Map) have built in functionality to loop over.
 
 Object don't have build-in functionality to loop over it. Via the iterator protocol we can loop over data types that don't default support for that.
 
@@ -122,7 +122,7 @@ Just like the values method gives us the value of each item in the NodeList, the
 
 ## 4. forEach
 
-Here comes a cool method that I was not aware of 😁. Just like the Array method forEach, a [NodeList Object has it's own forEach](https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach) method. 
+Here comes a cool method that I was not aware of 😁. Just like the Array method forEach, a [NodeList Object has it's own forEach](https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach) method.
 
 The most important note on this is that it's only supported in modern browsers. For support in older browsers you definitely need a compiler.
 

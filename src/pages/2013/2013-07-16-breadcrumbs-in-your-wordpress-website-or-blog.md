@@ -5,7 +5,7 @@ type: post
 date: 2013-07-16T14:30:52+00:00
 excerpt: "Breadcrumbs where used in many website's and blogs, the let the user know where the current page is in the structure of the website. The most Wordpress users install plugin's to get this done. For non-developers i'll understand that very well, the install and activate the plugin and start using them."
 url: /breadcrumbs-in-your-wordpress-website-or-blog/
-featured_image: /wp-content/uploads/2013/07/breadcrumb.jpg
+featured_image:  /wp-content/uploads/2013/07/breadcrumb.jpg
 dsq_thread_id:
   - 1504360016
 categories:
@@ -23,7 +23,7 @@ Breadcrumbs where used in many website&#8217;s and blogs, the let the user know 
 But for the developer with there own WordPress website or blog, i&#8217;ll like to share an WordPress [snippet][2] to create an Breadcrumb. You can modify it how you like, it&#8217;s only an base i use!
 
 **Snippet
-  
+
 ** So copy the code, and paste it in your functions.php. Than place the function the_breadcrumb(); in the loop of your theme.
 
     <br />function the_breadcrumb() {
@@ -43,12 +43,12 @@ But for the developer with there own WordPress website or blog, i&#8217;ll like 
     }
     echo '</div>';
     }
-    
+
     // Function:
-    
+
     the_breadcrumb();
-    
-    
+
+
 
 If this code is usefull for you, i&#8217;ll like to now where you use it. 🙂 And if you got any questions or comments, place it below in the comment form.
 

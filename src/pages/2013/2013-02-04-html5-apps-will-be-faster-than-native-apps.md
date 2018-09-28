@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-04T10:00:00+00:00
 url: /html5-apps-will-be-faster-than-native-apps/
-featured_image: /wp-content/uploads/2013/02/html5rocks.png
+featured_image:  /wp-content/uploads/2013/02/html5rocks.png
 categories:
   - News of the Web
 

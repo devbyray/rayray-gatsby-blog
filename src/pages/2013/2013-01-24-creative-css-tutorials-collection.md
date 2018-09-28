@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-24T11:00:00+00:00
 url: /creative-css-tutorials-collection/
-featured_image: /wp-content/uploads/2013/01/intocsstut.jpg
+featured_image: /intocsstut.jpg
 categories:
   - News of the Web
 

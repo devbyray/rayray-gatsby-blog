@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-26T14:15:00+00:00
 url: /12-eye-popping-examples-of-parallax-scrolling-websites/
-featured_image: /wp-content/uploads/2013/01/01parallax.jpg
+featured_image: /01parallax.jpg
 categories:
   - News of the Web
 

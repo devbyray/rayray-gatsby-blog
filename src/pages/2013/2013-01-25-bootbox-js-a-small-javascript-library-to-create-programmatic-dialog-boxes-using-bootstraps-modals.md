@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-25T13:00:00+00:00
 url: /bootbox-js-a-small-javascript-library-to-create-programmatic-dialog-boxes-using-bootstraps-modals/
-featured_image: /wp-content/uploads/2013/01/bootbox_large.jpg
+featured_image: /bootbox_large.jpg
 categories:
   - News of the Web
 

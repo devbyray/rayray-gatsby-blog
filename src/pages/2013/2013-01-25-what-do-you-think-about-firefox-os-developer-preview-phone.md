@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-25T17:00:00+00:00
 url: /what-do-you-think-about-firefox-os-developer-preview-phone/
-featured_image: /wp-content/uploads/2013/01/firefox-OS-phone.jpg
+featured_image: /firefox-OS-phone.jpg
 categories:
   - News of the Web
 

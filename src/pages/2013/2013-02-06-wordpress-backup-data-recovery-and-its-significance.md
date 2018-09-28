@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-06T22:27:00+00:00
 url: /wordpress-backup-data-recovery-and-its-significance/
-featured_image: /wp-content/uploads/2013/02/wordpress-backup.jpg
+featured_image:  /wp-content/uploads/2013/02/wordpress-backup.jpg
 dsq_thread_id:
   - 1493858809
 categories:

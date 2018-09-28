@@ -5,7 +5,7 @@ type: post
 date: 2013-07-11T08:26:24+00:00
 excerpt: "Icon fonts became populair than ever, that's why i wanna share with you folks how to use them in your next webdevelopment project. It's super easy, so check it out!"
 url: /how-to-use-icon-fonts-in-your-next-webdevelopment-project/
-featured_image: /wp-content/uploads/2013/07/weloveiconfonts-825x510.jpg
+featured_image:  /wp-content/uploads/2013/07/weloveiconfonts-825x510.jpg
 dsq_thread_id:
   - 1487396858
 categories:

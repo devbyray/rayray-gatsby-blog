@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2013-11-18T10:01:00+00:00
 url: /display-comments-on-custom-post-type-page-by-genesis-framework/
-featured_image: /wp-content/uploads/2013/10/wordpress.jpg
+featured_image:  /wp-content/uploads/2013/10/wordpress.jpg
 dsq_thread_id:
   - 1975846291
 categories:

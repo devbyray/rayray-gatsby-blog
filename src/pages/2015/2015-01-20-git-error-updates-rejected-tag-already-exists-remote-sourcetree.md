@@ -10,7 +10,7 @@ excerpt: |
   error: failed to push some refs to 'https://username@git.domain.com/gitrepo.git'
   hint: Updates were rejected because the tag already exists in the remote.
 url: /git-error-updates-rejected-tag-already-exists-remote-sourcetree/
-featured_image: error-git-push-tag-825x510.jpg
+featured_image:  error-git-push-tag-825x510.jpg
 dsq_thread_id:
   - 3437431852
 categories:

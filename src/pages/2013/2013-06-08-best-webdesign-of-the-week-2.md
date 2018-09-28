@@ -5,10 +5,10 @@ type: post
 date: 2013-06-08T19:38:50+00:00
 excerpt: |
   This week i’ll wanna share some nice website at my blog. A great collection of good looking websites, responsive websites, and some and other good looking webdesign all for your inspiration.
-  
+
   I like to present to you Webdesignerdepot's new design, a flatwebdesign website of Every Last Drop with an awesome scroll effect, a nice website of Frank Digital. But there are many more!
 url: /best-webdesign-of-the-week-2/
-featured_image: /wp-content/uploads/2013/06/webdesignerdepot-825x510.jpg
+featured_image:  /wp-content/uploads/2013/06/webdesignerdepot-825x510.jpg
 dsq_thread_id:
   - 1378965361
 categories:
@@ -20,7 +20,7 @@ tags:
   - webdesign
 
 ---
-**This week i’ll wanna share some nice website at my blog. A great collection of good looking websites, responsive websites, and some and other good looking webdesign all for your inspiration.** 
+**This week i’ll wanna share some nice website at my blog. A great collection of good looking websites, responsive websites, and some and other good looking webdesign all for your inspiration.**
 
 I like to present to you Webdesignerdepot&#8217;s new design, a flatwebdesign website of Every Last Drop with an awesome scroll effect, a nice website of Frank Digital. But there are many more!
 

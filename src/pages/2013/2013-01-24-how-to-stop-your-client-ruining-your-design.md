@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-24T07:00:00+00:00
 url: /how-to-stop-your-client-ruining-your-design/
-featured_image: /wp-content/uploads/2013/01/randallbody.jpg
+featured_image: /randallbody.jpg
 categories:
   - News of the Web
 

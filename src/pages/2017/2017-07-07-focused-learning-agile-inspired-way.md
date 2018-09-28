@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2017-07-07T19:00:20+00:00
 url: /focused-learning-agile-inspired-way/
-featured_image: focused-learning-the-agile-inspired-way.jpg
+featured_image:  focused-learning-the-agile-inspired-way.jpg
 dsq_thread_id:
   - 5971310399
 categories:

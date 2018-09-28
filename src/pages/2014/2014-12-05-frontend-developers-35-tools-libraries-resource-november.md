@@ -5,7 +5,7 @@ type: post
 date: 2014-12-05T09:36:23+00:00
 excerpt: 'Frontend Developers 35+ tools, libraries & resource of November'
 url: /frontend-developers-35-tools-libraries-resource-november/
-featured_image: Frontend-Developers-35-tools-libraries-resource-of-November-825x347.jpg
+featured_image:  Frontend-Developers-35-tools-libraries-resource-of-November-825x347.jpg
 dsq_thread_id:
   - 3366888731
 categories:

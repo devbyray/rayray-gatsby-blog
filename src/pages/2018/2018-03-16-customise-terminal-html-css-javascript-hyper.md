@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2018-03-16T09:48:15+00:00
 url: /customise-terminal-html-css-javascript-hyper/
-featured_image: hyper-terminal.jpg
+featured_image:  hyper-terminal.jpg
 categories:
   - Javascript
 ---
@@ -20,12 +20,12 @@ Lately, I was very happy to see that there is an [open source project](https://g
 You can change the style to your taste and spice it up with themes and plugins. For the big fans of **oh-my-zsh** on the mac terminal, you can continue to use this in Hyper 😎
 
 ## Platforms
-The Hyper terminal is only available for all platforms: 
+The Hyper terminal is only available for all platforms:
 
 - [Mac](https://releases.hyper.is/download/mac)
 - [Windows](https://releases.hyper.is/download/win)
 - [Debian](https://releases.hyper.is/download/deb)
-- [Fedora](https://releases.hyper.is/download/rpm) 
+- [Fedora](https://releases.hyper.is/download/rpm)
 - [Other Linux distros (.AppImage)](https://releases.hyper.is/download/AppImage).
 
 ## Settings
@@ -39,8 +39,8 @@ You're wondering how to change the settings?
 ## Themes
 Just like all the editors we use, that has a lot of themes, Hyper also has a lot of themes. In this list, you find some cool ones!
 
-- **my current** [Cobalt 2 Theme](https://www.npmjs.com/package/hyperterm-cobalt2-theme): This theme is created by [@wesbos](https://twitter.com/wesbos) and is also available for many other applications 
-- [Star Wars Theme](https://www.npmjs.com/package/hyper-star-wars): Not that I would use it, but hé we are nerds, so Star Wars is a part of that! 
+- **my current** [Cobalt 2 Theme](https://www.npmjs.com/package/hyperterm-cobalt2-theme): This theme is created by [@wesbos](https://twitter.com/wesbos) and is also available for many other applications
+- [Star Wars Theme](https://www.npmjs.com/package/hyper-star-wars): Not that I would use it, but hé we are nerds, so Star Wars is a part of that!
 - [Solarized Dark theme](https://www.npmjs.com/package/hyper-solarized-dark): This theme is nice and clean and also used by many other editors.
 - [Monokai Deluxe theme](https://www.npmjs.com/package/hyper-monokai-deluxe): This theme is just like the Solarized used in many other editors. In my opinion 1 of the classics.
 - [MacOS theme](https://www.npmjs.com/package/hyper-macos): If you're using a Windows or Linux and like the MacOS style of terminal, this is your theme!

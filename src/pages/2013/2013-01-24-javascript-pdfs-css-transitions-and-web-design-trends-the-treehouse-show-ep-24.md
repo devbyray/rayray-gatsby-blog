@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-24T17:00:00+00:00
 url: /javascript-pdfs-css-transitions-and-web-design-trends-the-treehouse-show-ep-24/
-featured_image: /wp-content/uploads/2013/01/treehouseShow24.jpg
+featured_image: /treehouseShow24.jpg
 categories:
   - News of the Web
 

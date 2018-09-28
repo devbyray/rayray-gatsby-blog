@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T20:00:00+00:00
 url: /30-cool-web-apps-made-entirely-in-html5/
-featured_image: /wp-content/uploads/2013/01/30.-html5-web-app-600x305.png
+featured_image: /30.-html5-web-app-600x305.png
 categories:
   - News of the Web
 

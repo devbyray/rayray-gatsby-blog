@@ -5,7 +5,7 @@ type: post
 date: 2013-06-24T17:10:58+00:00
 excerpt: "This June i'll wanna share with you some awesome web & mobile user interface design tools, inspiration and resources. Below you can find free PSD's, icons, interface kits, free fonts, mobile UI inspiration, grunge textures, apps, wordpress theme's, and many more free and paid!"
 url: /awesome-web-mobile-ui-design-tools-inspiration-and-resources-of-june-2013/
-featured_image: /wp-content/uploads/2013/06/flat-ui-colors-825x510.jpg
+featured_image:  /wp-content/uploads/2013/06/flat-ui-colors-825x510.jpg
 dsq_thread_id:
   - 1431062247
 categories:

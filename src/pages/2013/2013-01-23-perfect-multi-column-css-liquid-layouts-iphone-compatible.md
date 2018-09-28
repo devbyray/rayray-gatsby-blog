@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T11:00:00+00:00
 url: /perfect-multi-column-css-liquid-layouts-iphone-compatible/
-featured_image: /wp-content/uploads/2013/01/perfect-multi-column-liquid-layouts.jpg
+featured_image: /perfect-multi-column-liquid-layouts.jpg
 categories:
   - News of the Web
 

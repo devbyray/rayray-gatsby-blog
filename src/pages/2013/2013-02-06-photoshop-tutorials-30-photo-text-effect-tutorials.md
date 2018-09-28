@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-05T23:00:00+00:00
 url: /photoshop-tutorials-30-photo-text-effect-tutorials/
-featured_image: /wp-content/uploads/2013/02/photoshoptutorials.jpg
+featured_image:  /wp-content/uploads/2013/02/photoshoptutorials.jpg
 categories:
   - News of the Web
 

@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2013-05-24T10:02:22+00:00
 url: /google-webfont-issue-xmlhttprequest-cannot-load/
-featured_image: /wp-content/uploads/2013/05/google-fonts-issue.jpg
+featured_image:  /wp-content/uploads/2013/05/google-fonts-issue.jpg
 categories:
   - Snippets
 tags:
@@ -22,8 +22,8 @@ When i loaded my website in chrome, I&#8217;ve got an error in the debugger:�
 **Problem**
 
     <br />XMLHttpRequest cannot load <a title="http://fonts.googleapis.com/css?family=Armata" href="http://fonts.googleapis.com/css?family=Armata" target="_blank">http://fonts.googleapis.com/css?family=Armata</a>. Origin <a title="http://webhostinghelden.nl" href="http://webhostinghelden.nl/" target="_blank">http://raymonschouwenaar.nl</a> is not allowed by Access-Control-Allow-Origin.
-    
-    
+
+
 
 **The solution is easy!**
 

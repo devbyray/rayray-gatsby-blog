@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2018-03-23T20:59:08+00:00
 url: /managing-web-development-project-with-multiple-teams-on-github/
-featured_image: ES2015-set.jpg
+featured_image:  ES2015-set.jpg
 draft: true
 categories:
   - Project management

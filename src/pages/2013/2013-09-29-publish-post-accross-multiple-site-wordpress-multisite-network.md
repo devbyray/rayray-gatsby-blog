@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2013-09-29T13:58:08+00:00
 url: /publish-post-accross-multiple-site-wordpress-multisite-network/
-featured_image: /wp-content/uploads/2013/09/wp-multisite-post.png
+featured_image:  /wp-content/uploads/2013/09/wp-multisite-post.png
 dsq_thread_id:
   - 1808083377
 categories:

@@ -5,7 +5,7 @@ type: post
 date: 2013-04-06T14:14:40+00:00
 excerpt: "In my previous post i'll showed you the best flat webdesigns from dribbble. But now i'll like to show you some nice flat webdesigns from Behance!"
 url: /best-webdesign-from-behance-flat-webdesign/
-featured_image: /wp-content/uploads/2013/04/sliding-tab.gif
+featured_image:  /wp-content/uploads/2013/04/sliding-tab.gif
 categories:
   - Webdesign
 tags:
@@ -21,7 +21,7 @@ I Hope you like it!
 &nbsp;
 
 <a href="http://www.behance.net/gallery/Flat-UI-kit/7954447" target="_blank"><strong>Flat UI</strong></a>
-  
+
 <img class="alignnone size-full wp-image-899" alt="flat-ui" src="https://i2.wp.com/raymonschouwenaar.raymons.webfactional.com/wp-content/uploads/2013/04/flat-ui.jpg?resize=600%2C550" width="600" height="550" srcset="https://i2.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/04/flat-ui.jpg?w=600&ssl=1 600w, https://i2.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/04/flat-ui.jpg?resize=300%2C275&ssl=1 300w" sizes="(max-width: 600px) 100vw, 600px" data-recalc-dims="1" />
 
 &nbsp;

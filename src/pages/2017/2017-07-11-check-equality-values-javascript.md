@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2017-07-11T19:00:44+00:00
 url: /check-equality-values-javascript/
-featured_image: how-to-check-equality-of-values-in-javascript.jpg
+featured_image:  how-to-check-equality-of-values-in-javascript.jpg
 dsq_thread_id:
   - 5981426615
 categories:

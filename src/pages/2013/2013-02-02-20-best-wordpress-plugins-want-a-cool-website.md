@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-02T09:00:00+00:00
 url: /20-best-wordpress-plugins-want-a-cool-website/
-featured_image: /wp-content/uploads/2013/02/usquare.jpg
+featured_image:  /wp-content/uploads/2013/02/usquare.jpg
 categories:
   - News of the Web
 

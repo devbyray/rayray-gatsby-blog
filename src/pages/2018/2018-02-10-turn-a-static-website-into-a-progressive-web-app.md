@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2018-02-10T22:16:21+00:00
 url: /turn-a-static-website-into-a-progressive-web-app/
-featured_image: ES2015-set.jpg
+featured_image:  ES2015-set.jpg
 draft: true
 categories:
   - Javascript

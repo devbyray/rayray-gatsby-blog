@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-29T11:00:00+00:00
 url: /10-must-read-css3-tutorials/
-featured_image: /wp-content/uploads/2013/01/1-How-to-create-some-cool-CSS3-buttons.jpg
+featured_image: /1-How-to-create-some-cool-CSS3-buttons.jpg
 categories:
   - News of the Web
 

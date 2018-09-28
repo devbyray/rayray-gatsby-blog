@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2015-02-11T09:55:15+00:00
 url: /javascript-addeventlistener-onblur-doesnt-work-firefox-fix/
-featured_image: firefox-onblur-event-doesnt-work-825x510.jpg
+featured_image:  firefox-onblur-event-doesnt-work-825x510.jpg
 dsq_thread_id:
   - 3505655570
 categories:

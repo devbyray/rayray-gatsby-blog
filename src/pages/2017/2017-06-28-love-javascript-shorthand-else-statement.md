@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2017-06-28T19:02:25+00:00
 url: /love-javascript-shorthand-else-statement/
-featured_image: love-javascript-shorthand-else-statement-photo.jpg
+featured_image:  love-javascript-shorthand-else-statement-photo.jpg
 dsq_thread_id:
   - 5949255122
 categories:

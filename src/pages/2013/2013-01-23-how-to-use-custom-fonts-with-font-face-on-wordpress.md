@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T22:00:00+00:00
 url: /how-to-use-custom-fonts-with-font-face-on-wordpress/
-featured_image: /wp-content/uploads/2013/01/wordpress-before-640x318.jpg
+featured_image: /wordpress-before-640x318.jpg
 categories:
   - News of the Web
 

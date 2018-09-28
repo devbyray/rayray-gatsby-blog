@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-29T14:00:00+00:00
 url: /25-kickass-responsive-web-designs-for-inspiration/
-featured_image: /wp-content/uploads/2013/01/rwd-cover.jpg
+featured_image: /rwd-cover.jpg
 categories:
   - News of the Web
 

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-04T21:00:00+00:00
 url: /10-jquery-plugins-to-enhance-your-web-typography/
-featured_image: /wp-content/uploads/2013/02/jqisotext.jpg
+featured_image:  /wp-content/uploads/2013/02/jqisotext.jpg
 categories:
   - News of the Web
 

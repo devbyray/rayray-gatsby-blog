@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-30T11:00:00+00:00
 url: /whats-the-difference-between-ui-and-ux/
-featured_image: /wp-content/uploads/2013/01/ui-vs-ux.jpg
+featured_image: /ui-vs-ux.jpg
 categories:
   - News of the Web
 

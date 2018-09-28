@@ -5,7 +5,7 @@ type: post
 date: 2013-05-24T12:40:00+00:00
 excerpt: 'Read my weekly Webdesign &amp; Webdevelopment tweet! Full of Webdesign, Webdevelopment, Wordpress and more...'
 url: /weekly-webdesign-webdevelopment-tweets/
-featured_image: /wp-content/uploads/2013/05/Flat_Icons_by_Seevi-825x510.jpg
+featured_image:  /wp-content/uploads/2013/05/Flat_Icons_by_Seevi-825x510.jpg
 ws_tweeted:
   - 1
 categories:

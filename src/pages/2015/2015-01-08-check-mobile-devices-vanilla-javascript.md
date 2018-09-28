@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2015-01-08T19:26:35+00:00
 url: /check-mobile-devices-vanilla-javascript/
-featured_image: official-javascript-logo-e1420744637190-825x510.jpg
+featured_image:  official-javascript-logo-e1420744637190-825x510.jpg
 dsq_thread_id:
   - 3402577425
 categories:

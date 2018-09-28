@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-01T15:00:00+00:00
 url: /weekly-web-design-inspiration-69/
-featured_image: /wp-content/uploads/2013/02/langara.jpg
+featured_image:  /wp-content/uploads/2013/02/langara.jpg
 categories:
   - News of the Web
 

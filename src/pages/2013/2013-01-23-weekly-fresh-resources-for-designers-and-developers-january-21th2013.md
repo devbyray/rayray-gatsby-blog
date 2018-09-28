@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T19:00:00+00:00
 url: /weekly-fresh-resources-for-designers-and-developers-january-21th2013/
-featured_image: /wp-content/uploads/2013/01/1.free-resources-for-designers-and-developers.png
+featured_image: /1.free-resources-for-designers-and-developers.png
 categories:
   - News of the Web
 

@@ -5,7 +5,7 @@ type: post
 date: 2015-03-17T13:00:20+00:00
 excerpt: 'For a project I had to collect several User-agent strings for Mobile & Desktop. If you like to use them, be free to do :-)'
 url: /useragents-strings-mobile-desktop-snippets/
-featured_image: user-agent-825x510.jpg
+featured_image:  user-agent-825x510.jpg
 dsq_thread_id:
   - 3602752088
 categories:

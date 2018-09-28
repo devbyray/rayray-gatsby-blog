@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2013-06-15T13:32:54+00:00
 url: /best-webdesign-of-the-week-3/
-featured_image: /wp-content/uploads/2013/06/mac-pro-825x510.jpg
+featured_image:  /wp-content/uploads/2013/06/mac-pro-825x510.jpg
 dsq_thread_id:
   - 1403557061
 categories:

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-01T13:00:00+00:00
 url: /35-fresh-examples-of-modern-web-design/
-featured_image: /wp-content/uploads/2013/02/modern-web-design.jpg
+featured_image:  /wp-content/uploads/2013/02/modern-web-design.jpg
 categories:
   - News of the Web
 

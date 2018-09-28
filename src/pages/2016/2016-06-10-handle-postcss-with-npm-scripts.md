@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2016-06-10T18:38:06+00:00
 url: /handle-postcss-with-npm-scripts/
-featured_image: handle-postcss-with-plugins-via-npm-scripts-2016-1200x750.jpg
+featured_image:  handle-postcss-with-plugins-via-npm-scripts-2016-1200x750.jpg
 dsq_thread_id:
   - 4900363576
 categories:

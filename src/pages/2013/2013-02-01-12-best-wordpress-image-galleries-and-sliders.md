@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-01T11:00:00+00:00
 url: /12-best-wordpress-image-galleries-and-sliders/
-featured_image: /wp-content/uploads/2013/02/11.jpg
+featured_image:  /wp-content/uploads/2013/02/11.jpg
 categories:
   - News of the Web
 

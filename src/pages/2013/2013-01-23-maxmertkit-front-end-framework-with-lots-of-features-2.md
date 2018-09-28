@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T08:05:39+00:00
 url: /maxmertkit-front-end-framework-with-lots-of-features-2/
-featured_image: /wp-content/uploads/2013/01/maxmertkit1.jpg
+featured_image: /maxmertkit1.jpg
 categories:
   - News of the Web
 

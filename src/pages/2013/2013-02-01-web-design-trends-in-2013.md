@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-01T17:00:00+00:00
 url: /web-design-trends-in-2013/
-featured_image: /wp-content/uploads/2013/02/mobile-first-book-web-development.png
+featured_image:  /wp-content/uploads/2013/02/mobile-first-book-web-development.png
 categories:
   - News of the Web
 

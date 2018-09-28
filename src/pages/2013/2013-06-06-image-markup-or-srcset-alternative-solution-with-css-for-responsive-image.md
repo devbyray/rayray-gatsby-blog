@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2013-06-06T12:49:28+00:00
 url: /image-markup-or-srcset-alternative-solution-with-css-for-responsive-image/
-featured_image: /wp-content/uploads/2013/06/responsive-image-alternative-825x510.jpg
+featured_image:  /wp-content/uploads/2013/06/responsive-image-alternative-825x510.jpg
 dsq_thread_id:
   - 1369554455
 categories:

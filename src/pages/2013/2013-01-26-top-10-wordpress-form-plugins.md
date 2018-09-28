@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-26T15:00:00+00:00
 url: /top-10-wordpress-form-plugins/
-featured_image: /wp-content/uploads/2013/01/1-Gravity-Forms.jpg
+featured_image: /1-Gravity-Forms.jpg
 categories:
   - News of the Web
 

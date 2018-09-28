@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-01T19:00:00+00:00
 url: /web-standards-arent-just-about-html-and-css/
-featured_image: /wp-content/uploads/2013/02/kew.png
+featured_image:  /wp-content/uploads/2013/02/kew.png
 categories:
   - News of the Web
 

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-29T15:30:00+00:00
 url: /40-interesting-websites-with-wicked-designs/
-featured_image: /wp-content/uploads/2013/01/10.-wicked-web-design-600x301.png
+featured_image: /10.-wicked-web-design-600x301.png
 categories:
   - News of the Web
 

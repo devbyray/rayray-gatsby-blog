@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-02T15:00:00+00:00
 url: /wordpress-helps-you-in-managing-your-business-more-productively/
-featured_image: /wp-content/uploads/2013/02/wordpress-.jpg
+featured_image:  /wp-content/uploads/2013/02/wordpress-.jpg
 categories:
   - News of the Web
 

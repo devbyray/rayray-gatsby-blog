@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-25T11:00:00+00:00
 url: /weekly-fresh-web-design-freebies-vol-3-1-23-2013/
-featured_image: /wp-content/uploads/2013/01/1181.jpg
+featured_image: /1181.jpg
 categories:
   - News of the Web
 

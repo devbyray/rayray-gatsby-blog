@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T08:05:41+00:00
 url: /how-to-create-a-membership-site-on-wordpress-best-plugins-2/
-featured_image: /wp-content/uploads/2013/01/password1.png
+featured_image: /password1.png
 categories:
   - News of the Web
 

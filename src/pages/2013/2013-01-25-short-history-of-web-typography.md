@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-25T15:00:00+00:00
 url: /short-history-of-web-typography/
-featured_image: /wp-content/uploads/2013/01/jpegblogpost.jpg
+featured_image: /jpegblogpost.jpg
 categories:
   - News of the Web
 

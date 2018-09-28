@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-24T09:00:00+00:00
 url: /450-beautiful-vector-icons-for-website-ui-design/
-featured_image: /wp-content/uploads/2013/01/rss.png
+featured_image: /rss.png
 categories:
   - News of the Web
 

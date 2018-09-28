@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-28T13:00:00+00:00
 url: /mincss-clears-the-junk-out-of-your-css-finds-and-removes-selectors-youre-not-using/
-featured_image: /wp-content/uploads/2013/01/coding-php-645x250.jpg
+featured_image: /coding-php-645x250.jpg
 categories:
   - News of the Web
 

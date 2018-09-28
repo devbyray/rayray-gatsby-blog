@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2015-11-25T19:55:38+00:00
 url: /practical-example-of-how-to-use-bem-with-sass/
-featured_image: practical-example-of-how-to-use-bem-with-sass-825x510.jpg
+featured_image:  practical-example-of-how-to-use-bem-with-sass-825x510.jpg
 dsq_thread_id:
   - 4350721236
 categories:

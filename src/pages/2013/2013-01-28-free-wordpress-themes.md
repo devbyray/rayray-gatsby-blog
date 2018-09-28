@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-28T19:00:00+00:00
 url: /free-wordpress-themes/
-featured_image: /wp-content/uploads/2013/01/dexpress-825x510.jpg
+featured_image: /dexpress-825x510.jpg
 categories:
   - News of the Web
 

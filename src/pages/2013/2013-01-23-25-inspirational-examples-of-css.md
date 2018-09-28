@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T13:00:00+00:00
 url: /25-inspirational-examples-of-css/
-featured_image: /wp-content/uploads/2013/01/nolowene.jpg
+featured_image:  /nolowene.jpg
 categories:
   - News of the Web
 

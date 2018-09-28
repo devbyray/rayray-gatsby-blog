@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-05T07:00:00+00:00
 url: /20-neat-sleek-sports-web-designs/
-featured_image: /wp-content/uploads/2013/02/sport-1.jpg
+featured_image:  /wp-content/uploads/2013/02/sport-1.jpg
 categories:
   - News of the Web
 

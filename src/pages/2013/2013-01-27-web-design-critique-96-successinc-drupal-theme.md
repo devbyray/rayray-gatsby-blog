@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-27T21:00:00+00:00
 url: /web-design-critique-96-successinc-drupal-theme/
-featured_image: /wp-content/uploads/2013/01/DSCRT-96-0.jpg
+featured_image: /DSCRT-96-0.jpg
 dsq_thread_id:
   - 1384369005
 categories:

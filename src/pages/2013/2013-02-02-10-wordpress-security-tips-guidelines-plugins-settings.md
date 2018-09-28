@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-02T13:00:00+00:00
 url: /10-wordpress-security-tips-guidelines-plugins-settings/
-featured_image: /wp-content/uploads/2013/02/wordpress-security-lock-300x300.png
+featured_image:  /wp-content/uploads/2013/02/wordpress-security-lock-300x300.png
 categories:
   - News of the Web
 

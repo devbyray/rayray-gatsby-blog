@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-29T21:30:00+00:00
 url: /how-to-build-user-confidence-in-your-ui/
-featured_image: /wp-content/uploads/2013/01/typekit-825x510.jpg
+featured_image: /typekit-825x510.jpg
 categories:
   - News of the Web
 

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-01T09:00:00+00:00
 url: /how-to-efficiently-manage-multiple-wordpress-sites-using-managewp/
-featured_image: /wp-content/uploads/2013/02/managewpaddnewsite.jpg
+featured_image:  /wp-content/uploads/2013/02/managewpaddnewsite.jpg
 categories:
   - News of the Web
 

@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2018-01-21T12:40:43+00:00
 url: /what-is-set-javascript-es2015-es6-when-use-it/
-featured_image: ES2015-set.jpg
+featured_image:  ES2015-set.jpg
 categories:
   - Javascript
 ---

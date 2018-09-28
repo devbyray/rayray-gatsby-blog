@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-01T21:00:00+00:00
 url: /35-html5-and-css3-tutorials-for-designers/
-featured_image: /wp-content/uploads/2013/02/hmtl5css3tutorials.png
+featured_image:  /wp-content/uploads/2013/02/hmtl5css3tutorials.png
 categories:
   - News of the Web
 

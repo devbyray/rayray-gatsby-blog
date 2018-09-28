@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-28T07:00:00+00:00
 url: /interaction-design-lessons-from-sci-fi-visual-interfaces/
-featured_image: /wp-content/uploads/2013/01/makeitmain.jpg
+featured_image: /makeitmain.jpg
 categories:
   - News of the Web
 

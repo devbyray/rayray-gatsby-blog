@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T09:00:00+00:00
 url: /40-light-and-white-wordpress-themes-for-minimalistic-websites/
-featured_image: /wp-content/uploads/2013/01/light-white-wordpress-themes.jpg
+featured_image: /light-white-wordpress-themes.jpg
 categories:
   - News of the Web
 

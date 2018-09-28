@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-06T18:00:00+00:00
 url: /weekly-roundup-wordpress-user-interface-and-gravity-forms/
-featured_image: /wp-content/uploads/2013/02/wordpress-legal-business-640x386-150x150.jpg
+featured_image:  /wp-content/uploads/2013/02/wordpress-legal-business-640x386-150x150.jpg
 categories:
   - News of the Web
 

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-01T22:59:00+00:00
 url: /admin-dashboard-design-inspiration-23-examples/
-featured_image: /wp-content/uploads/2013/02/themes_suggeelson_com_supr_dashboa-700x510.jpg
+featured_image:  /wp-content/uploads/2013/02/themes_suggeelson_com_supr_dashboa-700x510.jpg
 categories:
   - News of the Web
 

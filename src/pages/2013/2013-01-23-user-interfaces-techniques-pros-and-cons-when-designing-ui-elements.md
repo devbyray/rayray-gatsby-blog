@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T14:00:00+00:00
 url: /user-interfaces-techniques-pros-and-cons-when-designing-ui-elements/
-featured_image: /wp-content/uploads/2013/01/user-interfaces.jpg
+featured_image: /user-interfaces.jpg
 categories:
   - News of the Web
 

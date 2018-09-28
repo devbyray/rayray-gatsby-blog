@@ -5,7 +5,7 @@ type: post
 date: 2013-06-12T10:16:44+00:00
 excerpt: "Many webdeveloper's are familiar with Codepen.And i'll like to show you awesome example's of what webdeveloper has made with Codepen. Here are the 11 most awesome Codepen's with HTML, CSS3 and Javascript for your inspiration."
 url: /11-awesome-codepens-with-html-css-and-javascript-for-your-inspiration/
-featured_image: /wp-content/uploads/2013/06/code-pen1-825x421.jpg
+featured_image:  /wp-content/uploads/2013/06/code-pen1-825x421.jpg
 dsq_thread_id:
   - 1393538977
 categories:

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-04T15:00:00+00:00
 url: /30-phenomenal-non-profit-website-designs/
-featured_image: /wp-content/uploads/2013/02/Change.jpg
+featured_image:  /wp-content/uploads/2013/02/Change.jpg
 categories:
   - News of the Web
 

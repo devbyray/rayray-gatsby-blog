@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-28T17:00:00+00:00
 url: /foodily-brand-identity-and-web-design-by-six/
-featured_image: /wp-content/uploads/2013/01/Foodily-Brand-Identity-Design-by-Six-43463465.jpg
+featured_image: /Foodily-Brand-Identity-Design-by-Six-43463465.jpg
 categories:
   - News of the Web
 

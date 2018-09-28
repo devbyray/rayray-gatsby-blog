@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T08:05:34+00:00
 url: /weekly-web-design-inspiration-n-174-2/
-featured_image: /wp-content/uploads/2013/01/styles_02_05-640x510.jpg
+featured_image: /styles_02_05-640x510.jpg
 categories:
   - News of the Web
 

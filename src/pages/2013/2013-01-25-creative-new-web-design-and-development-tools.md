@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-25T21:00:00+00:00
 url: /creative-new-web-design-and-development-tools/
-featured_image: /wp-content/uploads/2013/01/Wix-ad.jpg
+featured_image: /Wix-ad.jpg
 categories:
   - News of the Web
 

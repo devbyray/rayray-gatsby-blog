@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2018-03-30T21:32:08+00:00
 url: /lazy-loading-images-intersection-observer/
-featured_image: intersection-observer
+featured_image:  intersection-observer
 draft: false
 categories:
   - Javascript

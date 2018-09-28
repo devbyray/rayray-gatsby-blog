@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-27T19:00:00+00:00
 url: /launching-a-saas-product-using-wordpress-with-brian-casel-2/
-featured_image: /wp-content/uploads/2013/01/01.jpg
+featured_image: /01.jpg
 categories:
   - News of the Web
 

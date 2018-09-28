@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-28T11:00:00+00:00
 url: /20-rocking-wordpress-music-themes-want-more-fans/
-featured_image: /wp-content/uploads/2013/01/wordpress-music-theme.jpg
+featured_image: /wordpress-music-theme.jpg
 categories:
   - News of the Web
 

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-29T18:30:00+00:00
 url: /five-killer-ways-to-use-parallax/
-featured_image: /wp-content/uploads/2013/01/net228focuson.jpg
+featured_image: /net228focuson.jpg
 categories:
   - News of the Web
 

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-29T09:30:00+00:00
 url: /25-best-wordpress-themes-for-freelancers/
-featured_image: /wp-content/uploads/2013/01/IWTCF01.jpg
+featured_image: /IWTCF01.jpg
 categories:
   - News of the Web
 

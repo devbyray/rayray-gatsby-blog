@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T21:00:00+00:00
 url: /jquery-custom-scrollbar-plugin/
-featured_image: /wp-content/uploads/2013/01/scroll_large.jpg
+featured_image: /scroll_large.jpg
 categories:
   - News of the Web
 

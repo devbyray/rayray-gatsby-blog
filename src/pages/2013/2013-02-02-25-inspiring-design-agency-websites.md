@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-02T17:00:00+00:00
 url: /25-inspiring-design-agency-websites/
-featured_image: /wp-content/uploads/2013/02/design-agency.jpg
+featured_image:  /wp-content/uploads/2013/02/design-agency.jpg
 categories:
   - News of the Web
 

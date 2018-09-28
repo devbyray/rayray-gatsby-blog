@@ -5,10 +5,10 @@ type: post
 date: 2013-07-16T21:10:38+00:00
 excerpt: |
   Many Wordpress Themes where build with an handy option. An options where you can paste your Google Analytics code. First when i saw that i thought he that's very useful. So i decided to build the same option in the theme i made custom for my clients.
-  
+
   But when i realize....
 url: /never-use-the-google-analytics-option-in-an-wordpress-theme/
-featured_image: /wp-content/uploads/2013/07/add-your-google-analytics-code-to-wordpress-825x444.jpg
+featured_image:  /wp-content/uploads/2013/07/add-your-google-analytics-code-to-wordpress-825x444.jpg
 dsq_thread_id:
   - 1505033439
 categories:

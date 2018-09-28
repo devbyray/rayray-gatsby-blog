@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2018-04-02T08:32:08+00:00
 path: /commit-together-multiple-users-github/
-featured_image: co-author-commit-github
+featured_image:  co-author-commit-github
 draft: false
 categories:
   - Github

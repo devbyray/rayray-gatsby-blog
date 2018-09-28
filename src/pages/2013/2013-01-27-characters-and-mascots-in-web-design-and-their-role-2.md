@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-27T15:00:00+00:00
 url: /characters-and-mascots-in-web-design-and-their-role-2/
-featured_image: /wp-content/uploads/2013/01/img-261.jpg
+featured_image: /img-261.jpg
 categories:
   - News of the Web
 

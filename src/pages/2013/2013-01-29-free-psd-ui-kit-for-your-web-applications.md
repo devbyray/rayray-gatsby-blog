@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-29T20:00:00+00:00
 url: /free-psd-ui-kit-for-your-web-applications/
-featured_image: /wp-content/uploads/2013/01/thumbnail9.jpg
+featured_image: /thumbnail9.jpg
 categories:
   - News of the Web
 

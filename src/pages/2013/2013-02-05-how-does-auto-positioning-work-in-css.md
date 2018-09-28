@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-05T21:00:00+00:00
 url: /how-does-auto-positioning-work-in-css/
-featured_image: /wp-content/uploads/2013/02/blocks.jpg
+featured_image:  /wp-content/uploads/2013/02/blocks.jpg
 categories:
   - News of the Web
 

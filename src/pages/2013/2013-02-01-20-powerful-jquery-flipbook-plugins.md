@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-01T07:00:00+00:00
 url: /20-powerful-jquery-flipbook-plugins/
-featured_image: /wp-content/uploads/2013/02/jquery-flipbook-plugins.jpg
+featured_image:  /wp-content/uploads/2013/02/jquery-flipbook-plugins.jpg
 categories:
   - News of the Web
 

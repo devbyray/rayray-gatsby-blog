@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-05T15:00:00+00:00
 url: /cody-landefeld-wordpress-design-for-the-real-world/
-featured_image: /wp-content/uploads/2013/02/video-94e7a1e04e_dvd.original.jpg
+featured_image:  /wp-content/uploads/2013/02/video-94e7a1e04e_dvd.original.jpg
 categories:
   - News of the Web
 

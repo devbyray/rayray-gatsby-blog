@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-27T22:59:00+00:00
 url: /top-10-css-gallery-websites-for-inspiration/
-featured_image: /wp-content/uploads/2013/01/1-CSS-Leak.jpg
+featured_image: /1-CSS-Leak.jpg
 categories:
   - News of the Web
 

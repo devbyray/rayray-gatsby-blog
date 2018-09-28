@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T08:05:43+00:00
 url: /creating-an-html5-based-document-editor-2/
-featured_image: /wp-content/uploads/2013/01/html5_editor_screenshot1.png
+featured_image: /html5_editor_screenshot1.png
 categories:
   - News of the Web
 

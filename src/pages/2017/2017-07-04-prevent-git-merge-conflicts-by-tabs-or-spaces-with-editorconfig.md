@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2017-07-04T09:03:31+00:00
 url: /prevent-git-merge-conflicts-by-tabs-or-spaces-with-editorconfig/
-featured_image: prevent-git-merge-conflicts-by-tabs-or-spaces-with-editorconfig.jpg
+featured_image:  prevent-git-merge-conflicts-by-tabs-or-spaces-with-editorconfig.jpg
 dsq_thread_id:
   - 5962618987
 categories:

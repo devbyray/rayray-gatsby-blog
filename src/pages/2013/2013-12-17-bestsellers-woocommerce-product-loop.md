@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2013-12-17T17:32:19+00:00
 url: /bestsellers-woocommerce-product-loop/
-featured_image: /wp-content/uploads/2013/12/woocommerce.png
+featured_image:  /wp-content/uploads/2013/12/woocommerce.png
 dsq_thread_id:
   - 2056697014
 categories:

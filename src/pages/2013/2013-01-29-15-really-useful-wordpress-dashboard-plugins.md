@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-29T12:30:00+00:00
 url: /15-really-useful-wordpress-dashboard-plugins/
-featured_image: /wp-content/uploads/2013/01/admin_color_schemes_wordpress_dashboard_pugins.png
+featured_image: /admin_color_schemes_wordpress_dashboard_pugins.png
 categories:
   - News of the Web
 

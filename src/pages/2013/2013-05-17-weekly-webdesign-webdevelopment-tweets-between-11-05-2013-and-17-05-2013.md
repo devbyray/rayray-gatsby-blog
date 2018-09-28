@@ -5,7 +5,7 @@ type: post
 date: 2013-05-17T12:40:00+00:00
 excerpt: 'Read my weekly Webdesign &amp; Webdevelopment tweet! Full of Webdesign, Webdevelopment, Wordpress and more...'
 url: /weekly-webdesign-webdevelopment-tweets-between-11-05-2013-and-17-05-2013/
-featured_image: /wp-content/uploads/2013/05/html5.jpg
+featured_image:  /wp-content/uploads/2013/05/html5.jpg
 ws_tweeted:
   - 1
 categories:

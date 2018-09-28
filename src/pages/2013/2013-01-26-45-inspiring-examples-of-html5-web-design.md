@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-26T17:00:00+00:00
 url: /45-inspiring-examples-of-html5-web-design/
-featured_image: /wp-content/uploads/2013/01/html5-web-design.png
+featured_image: /html5-web-design.png
 categories:
   - News of the Web
 

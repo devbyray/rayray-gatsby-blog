@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-04T19:00:00+00:00
 url: /wordpress-news-tutorials-resources-roundup-no-18/
-featured_image: /wp-content/uploads/2013/02/featured.png
+featured_image:  /wp-content/uploads/2013/02/featured.png
 categories:
   - News of the Web
 

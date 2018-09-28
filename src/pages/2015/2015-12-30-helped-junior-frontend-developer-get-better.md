@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2015-12-30T22:10:51+00:00
 url: /helped-junior-frontend-developer-get-better/
-featured_image: helping-coaching-junior-frontend-developers.jpg
+featured_image:  helping-coaching-junior-frontend-developers.jpg
 dsq_thread_id:
   - 4448022488
 categories:

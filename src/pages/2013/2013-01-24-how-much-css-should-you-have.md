@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-24T21:00:00+00:00
 url: /how-much-css-should-you-have/
-featured_image: /wp-content/uploads/2013/01/lesscss-825x510.png
+featured_image: /lesscss-825x510.png
 categories:
   - News of the Web
 

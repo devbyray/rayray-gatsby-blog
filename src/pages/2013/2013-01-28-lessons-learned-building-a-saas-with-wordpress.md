@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-28T21:00:00+00:00
 url: /lessons-learned-building-a-saas-with-wordpress/
-featured_image: /wp-content/uploads/2013/01/0275-01_build_wordpress_thumbnail.jpg
+featured_image: /0275-01_build_wordpress_thumbnail.jpg
 categories:
   - News of the Web
 

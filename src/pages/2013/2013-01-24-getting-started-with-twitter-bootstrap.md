@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-24T15:00:00+00:00
 url: /getting-started-with-twitter-bootstrap/
-featured_image: /wp-content/uploads/2013/01/twitter-bootstrap.jpg
+featured_image: /twitter-bootstrap.jpg
 categories:
   - News of the Web
 

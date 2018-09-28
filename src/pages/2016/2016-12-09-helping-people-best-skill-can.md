@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2016-12-09T21:34:44+00:00
 url: /helping-people-best-skill-can/
-featured_image: raymonschouwenaar-helping-others.jpg
+featured_image:  raymonschouwenaar-helping-others.jpg
 dsq_thread_id:
   - 5368615188
 categories:

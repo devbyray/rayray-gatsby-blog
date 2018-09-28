@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2017-04-18T18:13:14+00:00
 url: /create-launch-screen-react-native-app-xcode/
-featured_image: 2017-04-launch-screen-xcode-react-native-screenshot.png
+featured_image:  2017-04-launch-screen-xcode-react-native-screenshot.png
 dsq_thread_id:
   - 5738084558
 categories:

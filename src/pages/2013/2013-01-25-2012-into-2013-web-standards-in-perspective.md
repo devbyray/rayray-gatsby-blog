@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-25T19:00:00+00:00
 url: /2012-into-2013-web-standards-in-perspective/
-featured_image: /wp-content/uploads/2013/01/metalgears.jpg
+featured_image: /metalgears.jpg
 categories:
   - News of the Web
 

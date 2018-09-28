@@ -5,7 +5,7 @@ type: post
 date: 2013-06-07T12:40:00+00:00
 excerpt: 'Read my weekly Webdesign &amp; Webdevelopment tweet! Full of Webdesign, Webdevelopment, Wordpress and more...'
 url: /weekly-webdesign-webdevelopment-tweets-3/
-featured_image: /wp-content/uploads/2013/06/Flat-Mobile-UI-Design-8-500x510.jpg
+featured_image:  /wp-content/uploads/2013/06/Flat-Mobile-UI-Design-8-500x510.jpg
 ws_tweeted:
   - 1
 dsq_thread_id:

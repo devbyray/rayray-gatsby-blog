@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2014-03-12T13:08:33+00:00
 url: /github-beginners-push-files-local-project-new-github-repository-console/
-featured_image: create-account-at-github-825x510.jpg
+featured_image:  create-account-at-github-825x510.jpg
 dsq_thread_id:
   - 2413950736
 categories:

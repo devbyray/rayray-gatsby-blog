@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-26T22:59:00+00:00
 url: /selectik-a-cross-browser-and-completely-customizable-alternative-to-the-standard-select-form/
-featured_image: /wp-content/uploads/2013/01/codevisually_res_07_large.jpg
+featured_image: /codevisually_res_07_large.jpg
 categories:
   - News of the Web
 

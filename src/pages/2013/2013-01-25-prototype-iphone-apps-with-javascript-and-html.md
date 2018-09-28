@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-25T09:00:00+00:00
 url: /prototype-iphone-apps-with-javascript-and-html/
-featured_image: /wp-content/uploads/2013/01/Screen-Shot-2013-01-19-at-21.56.47.png
+featured_image: /Screen-Shot-2013-01-19-at-21.56.47.png
 categories:
   - News of the Web
 

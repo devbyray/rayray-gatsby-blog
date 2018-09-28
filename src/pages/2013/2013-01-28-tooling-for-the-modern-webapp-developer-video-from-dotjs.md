@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-28T15:00:00+00:00
 url: /tooling-for-the-modern-webapp-developer-video-from-dotjs/
-featured_image: /wp-content/uploads/2013/01/minime.jpg
+featured_image: /minime.jpg
 categories:
   - News of the Web
 

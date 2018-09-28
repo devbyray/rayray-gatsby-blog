@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-29T08:00:00+00:00
 url: /gloople-responsive-design-review/
-featured_image: /wp-content/uploads/2013/01/gloople-devices-825x495.jpg
+featured_image: /gloople-devices-825x495.jpg
 categories:
   - News of the Web
 

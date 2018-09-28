@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-24T22:59:00+00:00
 url: /gradual-engagement-to-increase-your-conversion-rate/
-featured_image: /wp-content/uploads/2013/01/filepicker.png
+featured_image: /filepicker.png
 categories:
   - News of the Web
 

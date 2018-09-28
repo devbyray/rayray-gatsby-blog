@@ -5,7 +5,7 @@ type: post
 date: 2015-02-19T08:27:07+00:00
 excerpt: "How to get height & width of Element with JavaScript? It is super simple! Check the example, you don't need jQuery for this!"
 url: /how-to-get-height-width-of-element-with-vanilla-javascript/
-featured_image: snippets-of-vanilla-javascript-you-dont-need-jquery-for-this-825x510.jpg
+featured_image:  snippets-of-vanilla-javascript-you-dont-need-jquery-for-this-825x510.jpg
 dsq_thread_id:
   - 3528877572
 categories:

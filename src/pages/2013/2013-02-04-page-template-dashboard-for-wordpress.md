@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-04T13:00:00+00:00
 url: /page-template-dashboard-for-wordpress/
-featured_image: /wp-content/uploads/2013/02/view-page-template-1024x914-825x510.png
+featured_image:  /wp-content/uploads/2013/02/view-page-template-1024x914-825x510.png
 categories:
   - News of the Web
 

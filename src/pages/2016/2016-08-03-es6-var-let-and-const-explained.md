@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2016-08-03T14:58:44+00:00
 url: /es6-var-let-and-const-explained/
-featured_image: es6-var-let-and-const-explained-1200x750.jpg
+featured_image:  es6-var-let-and-const-explained-1200x750.jpg
 dsq_thread_id:
   - 5037139521
 categories:

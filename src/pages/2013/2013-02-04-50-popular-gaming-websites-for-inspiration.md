@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-04T17:00:00+00:00
 url: /50-popular-gaming-websites-for-inspiration/
-featured_image: /wp-content/uploads/2013/02/game-website-designs.jpg
+featured_image:  /wp-content/uploads/2013/02/game-website-designs.jpg
 categories:
   - News of the Web
 

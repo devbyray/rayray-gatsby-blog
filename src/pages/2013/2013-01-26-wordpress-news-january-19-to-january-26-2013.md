@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-26T19:00:00+00:00
 url: /wordpress-news-january-19-to-january-26-2013/
-featured_image: /wp-content/uploads/2013/01/screenshot-7.jpg
+featured_image: /screenshot-7.jpg
 categories:
   - News of the Web
 

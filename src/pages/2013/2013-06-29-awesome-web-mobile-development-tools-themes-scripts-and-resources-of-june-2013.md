@@ -5,7 +5,7 @@ type: post
 date: 2013-06-29T10:41:37+00:00
 excerpt: "This June i'll wanna share with you some awesome web & mobile development tools, theme's, scripts and resources. Below you can find free webdevelopment tool, jQuery plugin's, CSS resources, SASS, LESS, PHP mobile Detection script, Twitter boodstrap theme's and many more! Some are free, some are paid!"
 url: /awesome-web-mobile-development-tools-themes-scripts-and-resources-of-june-2013/
-featured_image: /wp-content/uploads/2013/06/takana-825x510.jpg
+featured_image:  /wp-content/uploads/2013/06/takana-825x510.jpg
 wp_compose_screenname:
   - rsschouwenaar
 wp_compose_tweet_text_link:

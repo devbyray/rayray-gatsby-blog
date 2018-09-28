@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-24T19:00:00+00:00
 url: /matthew-moore-design/
-featured_image: /wp-content/uploads/2013/01/major-visual-design-languages.jpg
+featured_image: /major-visual-design-languages.jpg
 categories:
   - News of the Web
 

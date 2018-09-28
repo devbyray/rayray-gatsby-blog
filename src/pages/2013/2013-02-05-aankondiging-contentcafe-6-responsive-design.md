@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-05T13:00:00+00:00
 url: /aankondiging-contentcafe-6-responsive-design/
-featured_image: /wp-content/uploads/2013/02/responsive_web_design-300x181.png
+featured_image:  /wp-content/uploads/2013/02/responsive_web_design-300x181.png
 categories:
   - News of the Web
 

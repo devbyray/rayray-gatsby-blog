@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-05T17:00:00+00:00
 url: /flat-design-can-you-benefit-from-the-trend/
-featured_image: /wp-content/uploads/2013/02/leeks.jpg
+featured_image:  /wp-content/uploads/2013/02/leeks.jpg
 categories:
   - News of the Web
 

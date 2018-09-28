@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-02T11:00:00+00:00
 url: /flat-design-websites-a-new-trend/
-featured_image: /wp-content/uploads/2013/02/window8_zps2893ae82.png
+featured_image:  /wp-content/uploads/2013/02/window8_zps2893ae82.png
 categories:
   - News of the Web
 

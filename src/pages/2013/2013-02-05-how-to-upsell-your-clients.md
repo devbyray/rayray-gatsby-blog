@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-05T22:30:00+00:00
 url: /how-to-upsell-your-clients/
-featured_image: /wp-content/uploads/2013/02/strategy-825x510.jpg
+featured_image:  /wp-content/uploads/2013/02/strategy-825x510.jpg
 categories:
   - News of the Web
 

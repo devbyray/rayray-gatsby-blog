@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-06T20:00:00+00:00
 url: /wordpress-3-6-what-to-expect-from-the-most-promising-update-in-a-long-time/
-featured_image: /wp-content/uploads/2013/02/wordpress-3-6.png
+featured_image:  /wp-content/uploads/2013/02/wordpress-3-6.png
 categories:
   - News of the Web
 

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T08:05:29+00:00
 url: /interesting-square-fonts-for-designers-2/
-featured_image: /wp-content/uploads/2013/01/ISFD011-453x510.jpg
+featured_image: /ISFD011-453x510.jpg
 categories:
   - News of the Web
 

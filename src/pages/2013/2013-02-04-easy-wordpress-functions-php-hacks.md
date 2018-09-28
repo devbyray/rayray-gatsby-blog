@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-04T08:10:00+00:00
 url: /easy-wordpress-functions-php-hacks/
-featured_image: /wp-content/uploads/2013/02/theme-locations.png
+featured_image:  /wp-content/uploads/2013/02/theme-locations.png
 categories:
   - News of the Web
 

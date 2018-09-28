@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-05T19:00:00+00:00
 url: /free-desktop-user-interface-kits/
-featured_image: /wp-content/uploads/2013/02/chat-ui.jpg
+featured_image:  /wp-content/uploads/2013/02/chat-ui.jpg
 categories:
   - News of the Web
 

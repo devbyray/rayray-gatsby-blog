@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2013-06-01T12:54:10+00:00
 url: /best-webdesign-of-the-week-1/
-featured_image: /wp-content/uploads/2013/06/dubbelfris-825x510.jpg
+featured_image:  /wp-content/uploads/2013/06/dubbelfris-825x510.jpg
 categories:
   - Webdesign
 tags:
@@ -17,7 +17,7 @@ tags:
 I&#8217;ll like to know what you guys think about these website. So share with me in the comments. If you seen or created a awesome website, share it with me on twitter (<a style="font-size: 13px;" title="Raymon Schouwenaar twitter" href="https://twitter.com/#!/rsschouwenaar" target="_blank">@rsschouwenaar</a>) and include #rss_websites than maybe you see that website next week in an new blog.
 
 **Adidas
-  
+
 <a href="http://www.adidasdesignstudios.com/" target="_blank"><img class="alignnone size-full wp-image-972" alt="adidas" src="https://i2.wp.com/raymonschouwenaar.raymons.webfactional.com/wp-content/uploads/2013/06/adidas.jpg?resize=700%2C348" width="700" height="348" srcset="https://i2.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/adidas.jpg?w=1580&ssl=1 1580w, https://i2.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/adidas.jpg?resize=300%2C149&ssl=1 300w, https://i2.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/adidas.jpg?resize=1024%2C509&ssl=1 1024w, https://i2.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/adidas.jpg?w=1400&ssl=1 1400w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" data-recalc-dims="1" /></a>**
 
 **The creative company<a href="http://www.thecreativecompany.com.au/" target="_blank"><img class="alignnone size-full wp-image-973" alt="designing-brand" src="https://i0.wp.com/raymonschouwenaar.raymons.webfactional.com/wp-content/uploads/2013/06/designing-brand.jpg?resize=700%2C343" width="700" height="343" srcset="https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/designing-brand.jpg?w=1600&ssl=1 1600w, https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/designing-brand.jpg?resize=300%2C147&ssl=1 300w, https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/designing-brand.jpg?resize=1024%2C502&ssl=1 1024w, https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/designing-brand.jpg?w=1400&ssl=1 1400w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" data-recalc-dims="1" /></a>**
@@ -43,7 +43,7 @@ I&#8217;ll like to know what you guys think about these website. So share with m
 **Triplagent<a href="http://www.triplagent.com/" target="_blank"><img class="alignnone size-full wp-image-984" alt="triplagent" src="https://i0.wp.com/raymonschouwenaar.raymons.webfactional.com/wp-content/uploads/2013/06/triplagent.jpg?resize=700%2C348" width="700" height="348" srcset="https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/triplagent.jpg?w=1581&ssl=1 1581w, https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/triplagent.jpg?resize=300%2C149&ssl=1 300w, https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/triplagent.jpg?resize=1024%2C508&ssl=1 1024w, https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/triplagent.jpg?w=1400&ssl=1 1400w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" data-recalc-dims="1" /></a>**
 
 **Loft City Church<a href="http://loftcitychurch.com/welcome" target="_blank"><img class="alignnone size-full wp-image-985" alt="we-re-family" src="https://i2.wp.com/raymonschouwenaar.raymons.webfactional.com/wp-content/uploads/2013/06/we-re-family.jpg?resize=700%2C348" width="700" height="348" srcset="https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/we-re-family.jpg?w=1579&ssl=1 1579w, https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/we-re-family.jpg?resize=300%2C149&ssl=1 300w, https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/we-re-family.jpg?resize=1024%2C509&ssl=1 1024w, https://i1.wp.com/www.raymonschouwenaar.nl/wp-content/uploads/2013/06/we-re-family.jpg?w=1400&ssl=1 1400w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" data-recalc-dims="1" /></a>
-  
+
 **
 
  [1]: http://www.nike.com/jumpman23/aj2012/

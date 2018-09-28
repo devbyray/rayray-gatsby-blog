@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-04T22:30:00+00:00
 url: /15-cool-wordpress-video-pluginsndash-want-to-show-off-videos/
-featured_image: /wp-content/uploads/2013/02/vimeo-seo.jpg
+featured_image:  /wp-content/uploads/2013/02/vimeo-seo.jpg
 categories:
   - News of the Web
 

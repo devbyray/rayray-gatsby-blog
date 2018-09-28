@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2013-12-22T13:49:15+00:00
 url: /building-responsive-table-with-only-css/
-featured_image: /wp-content/uploads/2013/12/responsive-table-css-woocommerce-wordpress.gif
+featured_image:  /wp-content/uploads/2013/12/responsive-table-css-woocommerce-wordpress.gif
 dsq_thread_id:
   - 2066710934
 categories:
@@ -36,13 +36,13 @@ To make you&#8217;re table responsive you need this small snippet!
 [code type=&#8221;css&#8221;]
 
 table {
-  
+
 -webkit-overflow-scrolling: touch;
-  
+
 overflow-x: auto;
-  
+
 display: block;
-  
+
 }
 
 [/code]
@@ -52,17 +52,17 @@ Or if you want to set it in an Mediaquerie
 [code type=&#8221;css&#8221;]
 
 @media only screen and (max-width:1024px&#8221;) {
-  
+
 table {
-  
+
 -webkit-overflow-scrolling: touch;
-  
+
 overflow-x: auto;
-  
+
 display: block;
-  
+
 }
-  
+
 }
 
 [/code]
@@ -72,15 +72,15 @@ Or if you want to use it with the WP Mobile Detect plugin? Use this one!
 [code type=&#8221;css&#8221;]
 
 body.dt-is-phone table,
-  
+
 body.dt-is-tablet-device table {
-  
+
 -webkit-overflow-scrolling: touch;
-  
+
 overflow-x: auto;
-  
+
 display: block;
-  
+
 }
 
 [/code]

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T18:00:00+00:00
 url: /build-a-fun-true-or-false-quiz-with-css/
-featured_image: /wp-content/uploads/2013/01/tfquiz-0.jpg
+featured_image: /tfquiz-0.jpg
 categories:
   - News of the Web
 

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-06T16:00:00+00:00
 url: /understanding-and-using-widgets-in-wordpress/
-featured_image: /wp-content/uploads/2013/02/13.png
+featured_image:  /wp-content/uploads/2013/02/13.png
 categories:
   - News of the Web
 

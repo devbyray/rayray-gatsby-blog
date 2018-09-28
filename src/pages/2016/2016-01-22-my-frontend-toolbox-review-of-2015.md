@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2016-01-22T22:15:24+00:00
 url: /my-frontend-toolbox-review-of-2015/
-featured_image: frontend-toolbox-review-of-2015.jpg
+featured_image:  frontend-toolbox-review-of-2015.jpg
 dsq_thread_id:
   - 4514883901
 categories:

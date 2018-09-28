@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-31T20:30:00+00:00
 url: /5-great-examples-of-simple-web-animations/
-featured_image: /wp-content/uploads/2013/01/0127-1024x611-825x510.png
+featured_image: /0127-1024x611-825x510.png
 categories:
   - News of the Web
 

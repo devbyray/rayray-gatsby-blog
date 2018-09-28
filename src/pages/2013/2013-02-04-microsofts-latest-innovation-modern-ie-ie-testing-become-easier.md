@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-02-04T11:00:00+00:00
 url: /microsofts-latest-innovation-modern-ie-ie-testing-become-easier/
-featured_image: /wp-content/uploads/2013/02/modern.png
+featured_image:  /wp-content/uploads/2013/02/modern.png
 categories:
   - News of the Web
 

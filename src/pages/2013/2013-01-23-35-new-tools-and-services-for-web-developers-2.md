@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-23T08:05:36+00:00
 url: /35-new-tools-and-services-for-web-developers-2/
-featured_image: /wp-content/uploads/2013/01/main1.jpg
+featured_image: /main1.jpg
 categories:
   - News of the Web
 

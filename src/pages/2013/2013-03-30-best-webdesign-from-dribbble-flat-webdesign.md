@@ -5,7 +5,7 @@ type: post
 date: 2013-03-30T16:11:16+00:00
 excerpt: "Everybody know's Dribbble.com. And because i love that website, i'll love to share these nice Flat Webdesign example's with you."
 url: /best-webdesign-from-dribbble-flat-webdesign/
-featured_image: /wp-content/uploads/2013/03/Metro_UI-825x510.jpg
+featured_image:  /wp-content/uploads/2013/03/Metro_UI-825x510.jpg
 categories:
   - Webdesign
 tags:

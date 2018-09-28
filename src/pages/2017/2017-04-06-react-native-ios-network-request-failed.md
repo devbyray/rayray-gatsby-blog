@@ -4,7 +4,7 @@ author: Raymon Schouwenaar
 type: post
 date: 2017-04-06T07:01:34+00:00
 url: /react-native-ios-network-request-failed/
-featured_image: raymonschouwenaar-react-native-ios-network-request-failed.jpg
+featured_image:  raymonschouwenaar-react-native-ios-network-request-failed.jpg
 dsq_thread_id:
   - 5700362003
 categories:

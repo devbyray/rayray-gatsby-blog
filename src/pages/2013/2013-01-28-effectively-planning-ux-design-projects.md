@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-28T22:59:00+00:00
 url: /effectively-planning-ux-design-projects/
-featured_image: /wp-content/uploads/2013/01/ux-design-photo.jpeg
+featured_image: /ux-design-photo.jpeg
 categories:
   - News of the Web
 

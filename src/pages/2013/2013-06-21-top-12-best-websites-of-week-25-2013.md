@@ -6,7 +6,7 @@ date: 2013-06-21T16:21:08+00:00
 excerpt: |
   This week i’ll wanna share the top 12 best websites with you, i've found this week. So relax and watch this great collection with a nice website of Greenpeace, the movie website of the new Star Trek movie "Into Darkness", the iPhone app Mextures, the new Flat website of Mailchimp and many other cool websites, all for your inspiration!
 url: /top-12-best-websites-of-week-25-2013/
-featured_image: /wp-content/uploads/2013/06/escapeflight-825x510.jpg
+featured_image:  /wp-content/uploads/2013/06/escapeflight-825x510.jpg
 dsq_thread_id:
   - 1419224368
 categories:

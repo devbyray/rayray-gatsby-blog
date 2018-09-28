@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-29T17:00:00+00:00
 url: /a-round-up-of-clean-wordpress-themes/
-featured_image: /wp-content/uploads/2013/01/trimtheme-600x347.png
+featured_image: /trimtheme-600x347.png
 categories:
   - News of the Web
 

@@ -4,7 +4,7 @@ author: admin
 type: post
 date: 2013-01-30T07:00:00+00:00
 url: /this-one-advice-is-all-it-takes-to-become-a-successful-freelancer-video/
-featured_image: /wp-content/uploads/2013/01/preview-large-freenlance-video-advice.jpg
+featured_image: /preview-large-freenlance-video-advice.jpg
 categories:
   - News of the Web
 
