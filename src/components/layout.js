@@ -1,7 +1,7 @@
-import React from 'react'
-import { Link } from 'gatsby'
-
-import { rhythm, scale } from '../utils/typography'
+import { Link } from 'gatsby';
+import React from 'react';
+import { rhythm, scale } from '../utils/typography';
+const siteName = 'RAYs{FRONTEND}BYTES';
 
 class Template extends React.Component {
   render() {
@@ -26,7 +26,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Gatsby Starter Blog
+            {siteName}
           </Link>
         </h1>
       )
@@ -47,7 +47,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Gatsby Starter Blog
+            {siteName}
           </Link>
         </h3>
       )
