@@ -3,7 +3,7 @@ module.exports = {
     title: 'RAYs{FRONTEND}BYTES',
     author: 'Raymon Schouwenaar',
     description: "I'm Ray a Dutch Front-end Developer. I share my passion about HTML, CSS, JavaScript and Tooling!",
-    siteUrl: 'http://raymonschouwenaar.netlify.com',
+    siteUrl: 'http://rayrayblog.netlify.app',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
